@@ -1,0 +1,5 @@
+name=ravenmsc/ts3x-client
+url=https://github.com/ravenmsc/ts3x-client.git
+commit=62373967a3fa1c15fdd6dc1e90766d5846e1e81c
+subprojects=protocol,ts3j
+license=Apache-2.0 (application/protocol); bundled ts3j retains upstream notices/licenses

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEXUS TS</string>
+    <string name="ui_language">زبان</string>
+    <string name="ui_follow_system">پیروی از سیستم</string>
+    <string name="ui_connect">اتصال</string>
+    <string name="ui_connecting">در حال اتصال</string>
+    <string name="ui_monitor_background_title">اجازه فعالیت در پس‌زمینه</string>
+    <string name="ui_monitor_background_done">انجام شد</string>
+    <string name="ui_monitor_settings_unavailable">باز کردن تنظیمات سیستم ممکن نشد. تنظیمات برنامه را دستی باز کنید.</string>
+</resources>
