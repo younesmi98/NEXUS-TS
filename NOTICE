@@ -1,0 +1,22 @@
+NEXUS TS final1 — third-party notices
+
+1. TeamSpeak transport and protocol
+   Project: TS3X Client
+   Repository: https://github.com/ravenmsc/ts3x-client
+   Pinned commit: 62373967a3fa1c15fdd6dc1e90766d5846e1e81c
+   License: Apache License 2.0 for the original application/protocol portions.
+   The fetched upstream tree contains its LICENSE and NOTICE files.
+
+2. ts3j and bundled dependencies
+   The upstream TS3X tree contains a modified ts3j source module. Its upstream
+   license, provenance file, NaCl notices and dependency licenses are retained
+   under upstream/ts3x-client/ts3j when bootstrap.sh has completed. Do not
+   remove those notices when redistributing that source.
+
+3. TeamSpeak trademark
+   TeamSpeak is a trademark of TeamSpeak Systems GmbH. NEXUS TS is an
+   independent unofficial client and is not affiliated with or endorsed by
+   TeamSpeak Systems GmbH.
+
+Copyright 2026 NEXUS TS contributors for original NEXUS TS application code.
+The root LICENSE file contains the Apache License 2.0 text.

@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.NexusTS" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#0D1110</item>
+        <item name="android:navigationBarColor">#0D1110</item>
+        <item name="android:windowBackground">#0D1110</item>
+        <item name="android:colorAccent">#00C878</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
